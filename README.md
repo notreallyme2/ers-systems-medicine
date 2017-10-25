@@ -5,10 +5,11 @@ Details can be found [here](https://www.ersnet.org/research/research-seminars/sy
   
 ### Lecture - Machine learning and AI for everyone ###
 
-* Script
-* Slides as a pdf
+* Script (for humans!)  
+* Slides as a pdf  
+* Jupyter notebook, as used during the lecture  
   
 ### Wokshop - Deep learning with Keras and TensorFlor###
 
-* Instructions for set-up
+* Instructions for set-up  
 * Jupyter notebook
