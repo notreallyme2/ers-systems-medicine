@@ -1,16 +1,16 @@
-# ERS Systems Medicine in Respiratory Disease Research Seminar #
+# ERS Systems Medicine in Respiratory Disease Research Seminar
 This repository contains materials from my presentation and workshop for the ERS Systems Medicine in Respiratory Disease Research Seminar.  
 The seminar was held 26 - 28 October 2017 in Berlin.  
 Details can be found [here](https://www.ersnet.org/research/research-seminars/systems-medicine-in-respiratory-disease)  
 To get to the files, click on `Source` (look left).  
   
-### Lecture - Machine learning and AI for everyone ###
+### Lecture - Machine learning and AI for everyone
 
 * Script (for humans!)  
 * Slides as a pdf  
 * Jupyter notebook, as used during the lecture  
   
-### Wokshop - Deep learning with Keras and TensorFlor###
+### Wokshop - Deep learning with Keras and TensorFlow
 
 * Instructions for set-up  
 * Jupyter notebook
